@@ -1,6 +1,6 @@
 # velora
 
-A new Flutter project.
+this app is a prototype to connect elderly people with students to help with their daily tasks, and students can gain money and experience. The backend database is not yet configured and will be done in coming days 
 
 ## Getting Started
 
